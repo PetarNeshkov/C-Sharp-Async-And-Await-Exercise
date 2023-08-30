@@ -1,0 +1,15 @@
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\bin\Debug\net6.0\Async and Await Exercise.exe
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\bin\Debug\net6.0\Async and Await Exercise.deps.json
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\bin\Debug\net6.0\Async and Await Exercise.runtimeconfig.json
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\bin\Debug\net6.0\Async and Await Exercise.dll
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\bin\Debug\net6.0\Async and Await Exercise.pdb
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.csproj.AssemblyReference.cache
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.AssemblyInfoInputs.cache
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.AssemblyInfo.cs
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.csproj.CoreCompileInputs.cache
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.dll
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\refint\Async and Await Exercise.dll
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.pdb
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\Async and Await Exercise.genruntimeconfig.cache
+E:\SoftUni\Internal Exercises\C-Sharp-Async-And-Await-Exercise\Async and Await Exercise\obj\Debug\net6.0\ref\Async and Await Exercise.dll
