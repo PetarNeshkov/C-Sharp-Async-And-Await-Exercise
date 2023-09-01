@@ -1,9 +1,12 @@
 ﻿SimpleExample();
 ComplexExample();
 
+
+return;
+
 void SimpleExample()
 {
-    var task = Task.Run(() => Console.WriteLine("First!"));
+    var task = Task.Run(() => Console.Write("First"));
 
     Console.WriteLine("Second");
 
@@ -18,7 +21,7 @@ void ComplexExample()
             .ContinueWith(t => "In a task"));
 
     Task.Delay(4000).Wait();
-    Console.WriteLine("Outside of a task!");
+    Console.WriteLine("Outside of a task");
 
     var completion = Task
         .WhenAll(task)
