@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. FromSyncToAsync", "01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BurgerPreparation", "02.BurgerPreparation\02.BurgerPreparation.csproj", "{190927A8-35DE-4706-96C2-28E104039390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MultithreadingAndAsynchronous", "03. MultithreadingAndAsynchronous\03. MultithreadingAndAsynchronous.csproj", "{7B964407-3567-4F1D-8401-74FF8D82782A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{190927A8-35DE-4706-96C2-28E104039390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190927A8-35DE-4706-96C2-28E104039390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{190927A8-35DE-4706-96C2-28E104039390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B964407-3567-4F1D-8401-74FF8D82782A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B964407-3567-4F1D-8401-74FF8D82782A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B964407-3567-4F1D-8401-74FF8D82782A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B964407-3567-4F1D-8401-74FF8D82782A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
