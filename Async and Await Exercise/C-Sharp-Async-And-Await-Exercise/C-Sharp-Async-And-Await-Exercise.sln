@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. AsyncAwait", "05. Async
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. PerformanceExample", "06. PerformanceExample\06. PerformanceExample.csproj", "{3B7B73FC-E0DA-48E3-9C21-81CC48841AA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Gotchas", "07. Gotchas\07. Gotchas.csproj", "{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{3B7B73FC-E0DA-48E3-9C21-81CC48841AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B7B73FC-E0DA-48E3-9C21-81CC48841AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B7B73FC-E0DA-48E3-9C21-81CC48841AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
