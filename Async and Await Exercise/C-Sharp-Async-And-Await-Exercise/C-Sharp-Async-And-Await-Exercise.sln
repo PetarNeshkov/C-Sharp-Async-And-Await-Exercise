@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. PerformanceExample", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Gotchas", "07. Gotchas\07. Gotchas.csproj", "{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Deadlock", "..\..\..\C-Sharp-Async-Await-In-Detail\8. Deadlock\08. Deadlock.csproj", "{040B2F7B-D047-4804-9AA0-61CEB81D9C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B77EE23-673F-453F-A4C0-692DFD2EAF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040B2F7B-D047-4804-9AA0-61CEB81D9C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040B2F7B-D047-4804-9AA0-61CEB81D9C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040B2F7B-D047-4804-9AA0-61CEB81D9C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040B2F7B-D047-4804-9AA0-61CEB81D9C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
