@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Deadlock", "..\..\..\C-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Cancellation", "09. Cancellation\09. Cancellation.csproj", "{035860DA-5368-4724-9ACC-B8D3818CA1CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. EventBasedApi", "10. EventBasedApi\10. EventBasedApi.csproj", "{0C6B6AFC-9191-4C6A-BE52-2093579575B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{035860DA-5368-4724-9ACC-B8D3818CA1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{035860DA-5368-4724-9ACC-B8D3818CA1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{035860DA-5368-4724-9ACC-B8D3818CA1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6B6AFC-9191-4C6A-BE52-2093579575B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6B6AFC-9191-4C6A-BE52-2093579575B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6B6AFC-9191-4C6A-BE52-2093579575B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6B6AFC-9191-4C6A-BE52-2093579575B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
